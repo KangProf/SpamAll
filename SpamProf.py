@@ -23,19 +23,19 @@ def main():
 def logo():
   print """%s
        
-         .d8888b.  8888888b.     d8888 888b     d888 
-        d88P  Y88b 888   Y88b   d88888 8888b   d8888 
-        Y88b.      888    888  d88P888 88888b.d88888 
-         "Y888b.   888   d88P d88P 888 888Y88888P888 
-            "Y88b. 8888888P" d88P  888 888 Y888P 888 
-              "888 888      d88P   888 888  Y8P  888 
-        Y88b  d88P 888     d8888888888 888   "   888 
-         "Y8888P"  888    d88P     888 888       888                
+ 888b    888 888    d8P   .d8888b.         .d8888b.  8888888b.     d8888 888b     d888 
+ 8888b   888 888   d8P   d88P  Y88b       d88P  Y88b 888   Y88b   d88888 8888b   d8888 
+ 88888b  888 888  d8P    Y88b.            Y88b.      888    888  d88P888 88888b.d88888 
+ 888Y88b 888 888d88K      "Y888b.          "Y888b.   888   d88P d88P 888 888Y88888P888 
+ 888 Y88b888 8888888b        "Y88b.           "Y88b. 8888888P" d88P  888 888 Y888P 888 
+ 888  Y88888 888  Y88b         "888             "888 888      d88P   888 888  Y8P  888 
+ 888   Y8888 888   Y88b  Y88b  d88P       Y88b  d88P 888     d8888888888 888   "   888 
+ 888    Y888 888    Y88b  "Y8888P"         "Y8888P"  888    d88P     888 888       888                
 -----------------------------------------
-    >>>>>[TOOLS ALL SPAM]<<<<<
-> %sAuthor by: %sBY.PROFACC%s
-> %sGithub: %sgithub.com/KangProf%s
-> %sTeam: %QOBIL IS THE FIRST KILLER%s
+    >>>>>[TOOLS SPAM ALL]<<<<<
+> %sAuthor by: %sMR.N43KS%s
+> %sGithub: %sgithub.com/MR-N43KS%s
+> %sTeam: %skendalblackhat%s
     (%sTools spam otp dengan 29 spammers)
 ------------------------------------------
 """%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
